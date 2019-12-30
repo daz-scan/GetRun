@@ -1,0 +1,4 @@
+show version
+show run
+copy run start
+
